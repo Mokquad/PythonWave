@@ -13,22 +13,22 @@ pip install -r requirements.txt
 
 ### Save with a specified filename:
 ```bash
-python main.py --save-as my_song.wav
+main.py --save-as my_song.wav
 ```
 
 ### Export to MIDI:
 ```bash
-python main.py --midi
+main.py --midi
 ```
 
 ### Export to MIDI with a specified filename:
 ```bash
-python main.py --midi midi.mid
+main.py --midi midi.mid
 ```
 
 ### Adjust Tempo (BPM):
 ```bash
-python main.py --bpm 137
+main.py --bpm 137
 ```
 
 ### Example:
