@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ## Usage
 
 
-### Save with a specified filename:
+### Change the output audio filename:
 ```bash
 main.py --save-as my_song.wav
 ```
@@ -21,7 +21,7 @@ main.py --save-as my_song.wav
 main.py --midi
 ```
 
-### Export to MIDI with a specified filename:
+### Change the output MIDI filename:
 ```bash
 main.py --midi midi.mid
 ```
